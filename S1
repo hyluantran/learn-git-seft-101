@@ -2,3 +2,4 @@ Duration: 1-2 hours
 Target: SE, TE
 Evaluation method: Quiz
 sdn_controller: 10.20.2.2
+auth_server: 10.30.3.3
