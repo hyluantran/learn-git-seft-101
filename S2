@@ -1,3 +1,5 @@
-Duration: 10-16 hour
-Target: SE
-Evaluation Quiz
+Duration: 3-4 hours
+Target: BA
+Evaluation method: Quiz
+sdn_controller: 10.20.2.9
+auth_server: 10.30.3.3
